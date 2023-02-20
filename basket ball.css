@@ -1,0 +1,60 @@
+@font-face{
+    font-family:'digital-clock-font';
+    src: url('put_the_location_to_your_font.ttf or .otf');
+   }
+body {
+    margin: 0;
+    background-color: rgba(0, 0, 0, 0.779);
+}
+h3{
+    font-size: 30px;
+    color: white;
+}
+.box{
+    background-color: black;
+    width: 200px;
+    height:200px;
+    margin: 100px 170px;
+}
+.box1{
+    background-color: black;
+    width: 200px;
+    height:200px;
+    margin: -300px 800px;
+}
+#az{
+    margin: 150px 240px;
+    color:#F94F6D
+    
+}
+#bz{
+    margin: -210px 900px;
+    color:#F94F6D
+}
+p{
+    font-size: 50px;
+    font-family:'digital-clock-font';
+}
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+.button1{
+margin-left: 150px;
+margin-top: 350px;
+}
+.button2{
+    margin-left: 180px;
+    margin-top: 350px;
+    }
+    .button3{
+        margin-left: 210px;
+        margin-top: 350px;
+        }
+        .b{
+            margin-top: 400px;
+            margin-left: 100px;
+        }
+    .c{
+margin-left: 200px;
+    }
